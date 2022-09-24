@@ -1,0 +1,14 @@
+C:\Users\NamLDC\Desktop\Backupdata\Loginbackup\nLogin\nLogin\bin\Debug\nLogin.exe.config
+C:\Users\NamLDC\Desktop\Backupdata\Loginbackup\nLogin\nLogin\bin\Debug\nLogin.exe
+C:\Users\NamLDC\Desktop\Backupdata\Loginbackup\nLogin\nLogin\bin\Debug\nLogin.pdb
+C:\Users\NamLDC\Desktop\Backupdata\Loginbackup\nLogin\nLogin\obj\Debug\nLogin.csproj.AssemblyReference.cache
+C:\Users\NamLDC\Desktop\Backupdata\Loginbackup\nLogin\nLogin\obj\Debug\nLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\NamLDC\Desktop\Backupdata\Loginbackup\nLogin\nLogin\obj\Debug\nLogin.Dangky.resources
+C:\Users\NamLDC\Desktop\Backupdata\Loginbackup\nLogin\nLogin\obj\Debug\nLogin.Dangnhap.resources
+C:\Users\NamLDC\Desktop\Backupdata\Loginbackup\nLogin\nLogin\obj\Debug\nLogin.Properties.Resources.resources
+C:\Users\NamLDC\Desktop\Backupdata\Loginbackup\nLogin\nLogin\obj\Debug\nLogin.QuenMatkhau.resources
+C:\Users\NamLDC\Desktop\Backupdata\Loginbackup\nLogin\nLogin\obj\Debug\nLogin.csproj.GenerateResource.cache
+C:\Users\NamLDC\Desktop\Backupdata\Loginbackup\nLogin\nLogin\obj\Debug\nLogin.csproj.CoreCompileInputs.cache
+C:\Users\NamLDC\Desktop\Backupdata\Loginbackup\nLogin\nLogin\obj\Debug\nLogin.exe
+C:\Users\NamLDC\Desktop\Backupdata\Loginbackup\nLogin\nLogin\obj\Debug\nLogin.pdb
+C:\Users\NamLDC\Desktop\Backupdata\Loginbackup\nLogin\nLogin\obj\Debug\nLogin.Home.resources
