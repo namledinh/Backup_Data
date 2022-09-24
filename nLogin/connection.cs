@@ -9,6 +9,7 @@ namespace nLogin
 {
     internal class connection
     {
+        //các bạn cần cài dặt  SQL server để có thể truy xuất và lưu dữ liệu.
         private static string strconection = @"Data Source=DESKTOP-G61KFSS;Initial Catalog=Login;Integrated Security=True";
         public static SqlConnection GetSqlConnection()
         {
